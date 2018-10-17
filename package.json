@@ -1,0 +1,16 @@
+{
+  "name": "bbs-node",
+  "version": "1.0.0",
+  "description": "A bulleting board system created with Node.js",
+  "main": "server.js",
+  "dependencies": {
+    "tachyons": "^4.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "José Luis Reynoso Rodríguez",
+  "license": "ISC"
+}
